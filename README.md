@@ -3,7 +3,7 @@
 **Student:** Jason Chiagozie  
 **Course:** AI Future Directions  
 **Assignment:** Pioneering Tomorrow’s AI Innovations  
-**Submitted:** [DATE]
+**Submitted:** November, 2025
 
 ---
 
